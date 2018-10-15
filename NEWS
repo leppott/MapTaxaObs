@@ -1,0 +1,28 @@
+MapTaxaObs-NEWS
+================
+<Erik.Leppo@tetratech.com>
+2018-10-15 18:02:34
+
+<!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
+
+    #> Last Update: 2018-10-15 18:02:34
+
+# Future Possibile Features (Wish List)
+
+  - ggplot version to return single map
+
+  - Example 2 for main function.
+
+  - Any issues as reported on GitHub.
+    
+      - <https://github.com/leppott/BCGcalc/issues>
+
+# Version History
+
+## Changes in Version 0.1.0.9001 (2018-10-15)
+
+  - Finalize function.
+
+## Changes in Version 0.1.0 (2018-09-05
+
+  - Created GitHub repository

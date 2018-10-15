@@ -1,0 +1,19 @@
+Package: MapTaxaObs
+Type: Package
+Title: Create maps of taxonomic observations
+Version: 0.1.0
+Author: c(
+	person("Erik W.", "Leppo", email="Erik.Leppo@tetratech.com",role=c("aut","cre")))
+Maintainer: Erik W. Leppo <Erik.Leppo@tetratech.com>
+Description: Maps by State or region of observations.
+    Designed for bioassessment programs and the display of taxonomic specimens.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/leppott/MapTaxaObs
+BugReports: https://github.com/leppott/MapTaxaObs/issues
+RoxygenNote: 6.0.1
+Imports: 
+  maps,
+  ggplot2
+VignetteBuilder: knitr
